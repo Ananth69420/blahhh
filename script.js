@@ -3,7 +3,7 @@ const letter = `i honestly don’t even remember how exactly it all started, but
 
 i know i mess up a lot. i say dumb things, i get moody, i act distant sometimes, and i know it hurts you. but please never think it’s because i don’t care. i care about you more than i’ve ever cared about anyone. even when i’m acting weird or quiet, you’re the one person who’s always on my mind.
 
-you’ve seriously changed how i see relationships. i used to not care much about all that couple stuff, but now it actually means something to me. and that’s because of you.
+you’ve seriously changed how i see relationships. i used to not care much about all that couple stuff (even u too bitch), but now it actually means something to me. and that’s because of you.
 
 i love how you hype me up, how you match my energy, how you bully me one second and act soft the next. even when you’re threatening to steal my salary or make me go broke after marriage, i still want all of it with you.
 
@@ -13,7 +13,7 @@ i can’t wait for the day when we get to be together properly. no hostel, no di
 
 i love you. so much. more than you probably realise. and no matter how things go, i’m not going anywhere. unless you kill me, which is a real possibility considering how you talk sometimes.
 
-i love you so so so so so soo so soos oso ososoo ossoso osoososo sosos ososos soooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo much.
+i love you so so so so so soo so soos oso ososoo ossoso osoososo sosos ososos sooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo much.
 `;
 
 const textEl = document.getElementById("letterText");
